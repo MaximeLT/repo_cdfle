@@ -1,0 +1,17 @@
+.radio > input{
+  visibility: hidden;
+  position: absolute;
+}
+.radio > input + img{
+  cursor:pointer;
+  border:2px solid transparent;
+}
+.radio > input:checked + img{
+  border:2px solid #b91c12;
+}
+.reponse, .question{
+  text-align: center;
+}
+li{
+  list-style: none;
+}
