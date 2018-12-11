@@ -28,9 +28,7 @@ $_SESSION['classe'] = $_POST['classe'];
 				<div class="consigne" style="margin-top: 40px"><!-- bloc contenant l'énoncé de l'exerice -->
 					<p>Exercice 1: Écoutez les dialogues et choisissez le dessin correspondant</p>
 				</div>
-				<audio controls style="width:100%" controlsList="nodownload">
-					<source src="./audio/Test_français_Maternelle1.m4a" type="audio/mpeg">
-				</audio>
+				<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/543367872&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 				<div class="contenuReponses">
 					<ol>
 						<li>
@@ -124,15 +122,13 @@ $_SESSION['classe'] = $_POST['classe'];
 				<div class="consigne" style="margin-top: 40px"><!-- bloc contenant l'énoncé de l'exerice -->
 				<p>Exercice 2: Écoute les messages et note le numéro du message sous le dessin correspondant.</p>
 				</div>
-				<audio controls style="width:100%" controlsList="nodownload">
-					<source src="./audio/Test_français_Maternelle2.m4a" type="audio/mpeg">
-				</audio>
+				<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/543367830&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 				<div class="contenuReponses">
 					<ol>
 						<li>
 							<div class="reponse"><!-- bloc contenant les choix possibles ou les champs de saisie -->
 								<label>
-									<img src="./images/16-ciseaux-2000x2000.png" style="height: 10%; width: 10%"><br>
+									<img src="./images/16-ciseaux-2000x2000.png" style="height: 30%; width: 30%">
 									<input class="w3-text" type="text" name="2q1" maxlength="1" size="1">
 								</label>
 							</div>
@@ -140,7 +136,7 @@ $_SESSION['classe'] = $_POST['classe'];
 						<li>
 							<div class="reponse"><!-- bloc contenant les choix possibles ou les champs de saisie -->
 								<label>
-									<img src="./images/17-date-2000x2000.png" style="height: 10%; width: 10%"><br>
+									<img src="./images/17-date-2000x2000.png" style="height: 30%; width: 30%">
 									<input class="w3-text" type="text" name="2q2"maxlength="1" size="1">
 								</label>
 							</div>
@@ -148,7 +144,7 @@ $_SESSION['classe'] = $_POST['classe'];
 						<li>
 							<div class="reponse"><!-- bloc contenant les choix possibles ou les champs de saisie -->
 								<label>
-									<img src="./images/18-peinture-2000x2000.png" style="height: 10%; width: 10%"><br>
+									<img src="./images/18-peinture-2000x2000.png" style="height: 30%; width: 30%">
 									<input class="w3-text" type="text" name="2q3"maxlength="1" size="1">
 								</label>
 							</div>
@@ -156,7 +152,7 @@ $_SESSION['classe'] = $_POST['classe'];
 						<li>
 							<div class="reponse"><!-- bloc contenant les choix possibles ou les champs de saisie -->
 								<label>
-									<img src="./images/19-coloriage-2000x2000.png" style="height: 10%; width: 10%"><br>
+									<img src="./images/19-coloriage-2000x2000.png" style="height: 30%; width: 30%">
 									<input class="w3-text" type="text" name="2q4"maxlength="1" size="1">
 								</label>
 							</div>
@@ -167,9 +163,7 @@ $_SESSION['classe'] = $_POST['classe'];
 			<div class="consigne" style="margin-top: 40px"><!-- bloc contenant l'énoncé de l'exerice -->
 					<p>Exercice 1: Écoutez les dialogues et choisissez le dessin correspondant</p>
 				</div>
-				<audio controls style="width:100%" controlsList="nodownload">
-					<source src="./audio/Test_français_Maternelle3.m4a" type="audio/mpeg">
-				</audio>
+				<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/543367587&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 				<div class="contenuReponses">
 					<ol>
 						<li>
